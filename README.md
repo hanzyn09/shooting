@@ -1,5 +1,8 @@
 # shooting
-Target shooter with webGL (javascript, css, jquery with THREE.js and require.js). </br>
+Target shooter with webGL
+
+<b>[technique]</b></br>
+javascript, css, jquery with THREE.js and require.js). </br>
 
 <b>[concept]</b></br>
 If the user fails to hit the asteroid, the asteroid falls on the earth.</br>
