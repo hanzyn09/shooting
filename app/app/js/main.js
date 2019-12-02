@@ -657,12 +657,12 @@ function createLazer() {
         lazerGun = 2;
     } else if (lazerGun == 2) {
         lazer.object.position.x = ship.position.x - 430;
-        lazer.object.position.y = ship.position.y - 130;
+        lazer.object.position.y = ship.position.y - 220;
         lazer.XDest = +lazerOffset;
         lazerGun = 3;
     } else if (lazerGun == 3) {
         lazer.object.position.x = ship.position.x + 430;
-        lazer.object.position.y = ship.position.y - 130;
+        lazer.object.position.y = ship.position.y - 220;
         lazer.XDest = -lazerOffset;
         lazerGun = 0;
     }
