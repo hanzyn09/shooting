@@ -1,5 +1,5 @@
 # shooting
-target shooter with webGL. </br>
+Target shooter with webGL (javascript, css, jquery with THREE.js and require.js). </br>
 Five asteroids are randomly placed per game. </br>
 If the asteroid is hit with a laser, you get 100 points. </br>
 You don't shoot until you get out of the screen, HP is deducted by 1. </br>
