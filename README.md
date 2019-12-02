@@ -1,9 +1,9 @@
 # shooting
-target shooter with webGL.
-Five asteroids are randomly placed per game.
-If the asteroid is hit with a laser, you get 100 points.
-You don't shoot until you get out of the screen, HP is deducted by 1.
-If you shoot down all set asteroids, you accumulate points and move on to the next level to create a new environment.
+target shooter with webGL. </br>
+Five asteroids are randomly placed per game. </br>
+If the asteroid is hit with a laser, you get 100 points. </br>
+You don't shoot until you get out of the screen, HP is deducted by 1. </br>
+If you shoot down all set asteroids, you accumulate points and move on to the next level to create a new environment.</br>
 The higher the level, the more asteroids there are.
 
 [2019-11-07] version 1
